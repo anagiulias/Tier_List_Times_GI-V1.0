@@ -124,7 +124,7 @@ function App() {
   return (
     <div className="App">
       <Banner />
-      <Formulario times={times.map(time => time.nome)} aoPersonagemCadastrado={personagem => aoNovoPersonagemAdicionado([...personagens, personagem])} />
+      <Formulario times={times.map(time => time.nome)} aoPersonagemCadastrado={personagem => aoNovoPersonagemAdicionado(personagem)} />
       <section className='times'>
       {times.map((time, indice) => 
         <Time

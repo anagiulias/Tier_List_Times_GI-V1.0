@@ -2,7 +2,7 @@ import Personagem from '../Personagem'
 import './time.css'
 import hexToRgba from 'hex-to-rgba'
 
-const Time = ({time, personagens, aoDeletar, mudarCor, aoFavoritar}) => {
+const Time = ({ time, personagens, aoDeletar, mudarCor, aoFavoritar }) => {
     return (
 
         personagens.length > 0 && <section className='time' style={{ backgroundImage: 'url(/imagens/fundo.png)', backgroundColor: hexToRgba (time.cor, '0.6') }}>

@@ -13,7 +13,6 @@ const Formulario = ({ aoPersonagemCadastrado, times }) => {
 
     const aoSalvar = (evento) =>{
         evento.preventDefault()
-        console.log('form enviado', nome, classe, imagem, time )
         aoPersonagemCadastrado({
             nome,
             classe,
