@@ -16,6 +16,7 @@ Comandos para iniciar o projeto:
 
 ## ✘ Acesso ao Projeto
 Você pode acessar o projeto, por meio do link:
+https://tier-list-times-gi-v1-0.vercel.app
 
 ## ✘ Direitos autorais
 Não sou autor das imagens do projeto, elas pertencem ao jogo Genshin Impact.
