@@ -18,7 +18,7 @@ Comandos para iniciar o projeto:
 Você pode acessar o projeto, por meio do link:
 
 ## ✘ Direitos autorais
-Não sou autor das imagens do projeto, elas são do jogo Genshin Impact.
+Não sou autor das imagens do projeto, elas pertencem ao jogo Genshin Impact.
 
 ## ✘ Tecnologias usadas
 * HTML
