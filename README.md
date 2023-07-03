@@ -15,7 +15,7 @@ Comandos para iniciar o projeto:
 **Note: Você precisa ter o NodeJS na sua máquina, e adicionar esses comandos no terminal. Em seguida acesse o servidor local fornecido.**
 
 ## ✘ Acesso ao Projeto
-Você pode acessar o projeto, por meio do link:
+Você pode acessar o projeto, por meio do link: </br>
 https://tier-list-times-gi-v1-0.vercel.app
 
 ## ✘ Direitos autorais
