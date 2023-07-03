@@ -64,6 +64,14 @@ function App() {
     {
       id: uuidv4(),
       favorito: false,
+      nome: 'Focalors',
+      classe: 'Espada',
+      imagem: 'https://i.pinimg.com/originals/87/69/5e/87695ea26e8b0d63c8ec2f78750faa22.jpg',
+      time: times[1].nome
+    },
+    {
+      id: uuidv4(),
+      favorito: false,
       nome: 'Venti',
       classe: 'Arco',
       imagem: 'https://i.pinimg.com/originals/f9/55/9c/f9559cdc526c83259cc4122d125fcd75.jpg',
