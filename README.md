@@ -1,4 +1,4 @@
-![nome](https://github.com/anagiulias/Tier_List_Times_GI-V1.1/assets/115855530/24fa2164-afad-41ce-abbc-62f14fb15048)
+![nome](https://github.com/anagiulias/Tier_List_Times_GI-V1.0/assets/115855530/854dbaa6-270e-445a-9bcc-dd2420ddfcc6)
 
 # <h1 align="center"> ⚇ Tier List Times Genshin Impact ⚇ </h1>
 ![Badge Finalizado](https://img.shields.io/badge/STATUS-CONCLUÍDO-<BRIGHTGREEN)
